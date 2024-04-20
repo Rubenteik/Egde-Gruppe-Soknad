@@ -1,7 +1,8 @@
-**Gruppesøknad om praksisplass hos Egde Consulting AS**
+#Gruppesøknad om praksisplass hos Egde Consulting AS
 
 Søknad og CVer befinner seg på pages
 
+## Gruppemedlemmer:
 | Navn                   | Github-URL                      |
 | --------------------   | ------------------------------- |
 | Ruben Teikari          | https://github.com/rubenteik    |
