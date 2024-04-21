@@ -111,19 +111,16 @@ hr {
 }
 
 .footer {
-  position: fixed;
+  position: relative;
   left: 0;
-  bottom: 0;
+  bottom: 100px;
   width: 100%;
-  height: 10vh;
-  color: white;
+  height: 1vh;
   font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
   text-align: center;
-  border: solid;
   font-size: 19px;
   border-top-width: 1px;
   border-bottom-width: 0px;
   border-left-width: 0px;
   border-right-width: 0px;
-  border-color: white;
 }
