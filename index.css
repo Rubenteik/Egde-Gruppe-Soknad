@@ -1,6 +1,6 @@
 body {
   text-align: center;
-  height: 160vh;
+  height: 170vh;
   background: linear-gradient(180deg, #04176b 0%, rgba(103, 16, 103, 0) 100%), #4E018A;
 
 }
@@ -39,7 +39,7 @@ h2 {
   width: 20px;
   height: 20px;
   left: -10px;
-  top: 150px;
+  top: 170px;
   white-space: nowrap;
   font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
   font-style: normal;
@@ -55,7 +55,7 @@ h3 {
   width: 20px;
   height: 20px;
   left: -10px;
-  top: 350px;
+  top: 370px;
   white-space: nowrap;
   font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
   font-style: normal;
@@ -71,7 +71,7 @@ h4 {
   width: 20px;
   height: 20px;
   left: -10px;
-  top: 550px;
+  top: 570px;
   white-space: nowrap;
   font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
   font-style: normal;
@@ -87,7 +87,7 @@ h5 {
   width: 20px;
   height: 20px;
   left: -10px;
-  top: 750px;
+  top: 770px;
   white-space: nowrap;
   font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
   font-style: normal;
