@@ -2,6 +2,35 @@
 <html lang="en">
 
 <head>
+
+  <style>
+    /* Link styles */
+    a:link,
+    a:visited {
+      color: white; /* Standard color for unvisited and visited links */
+      text-decoration: none; /* Remove underline */
+    }
+
+    a:hover,
+    a:active {
+      color: white; /* Color on hover and when active */
+    }
+
+    a.button {
+      display: inline-block;
+      padding: 2px 4px;
+      background-color: #63676a; /* Blue color for the button */
+      color: white;
+      text-decoration: none;
+      border-radius: 5px;
+    }
+
+    a.button:hover {
+      background-color: #0056b3; /* Darker blue color on hover */
+    }
+
+  </style>
+
   <meta charset="UTF-8">
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
@@ -11,19 +40,21 @@
 </head>
 
 <body>
-  <div class="frontpage">
-    <h1>FELLESSKAPET</h1>
-      <p><b>A Group Project</b></p>
-      <h2><b>Click the button bellow to start the survey</b></h2>
-      <hr>
-      <!--Laget 2 knapper som dirigerer bruker videre til spørreundersøkelsen eller resultat-->
-      <button class="button button1" onclick="location.href='./søknad.html';">Søknad</button>
-      <button class="button button2" onclick="location.href='./cv.html';">CV</button>
-  </div>
+<div class="frontpage">
+  <h1>Egde&nbsp;Gruppesøknad</h1>
 
-  <div class="footer">
-    <p>Fellesskapet</p>
-  </div>
+    <!--Ruben-->
+
+    <h2><img src="bilder/ruben.jpg" width="170" height="170" border="2" hspace="95"></h2>
+    <h2><b>Ruben Teikari | <a href="søknad.html" class="button">CV</a></b></h2>
+
+    <!--Martin-->
+
+    <h3><img src="bilder/martin.png" width="170" height="170" border="2" hspace="95"></h3>
+    <h3><b>Martin Steiro | <a href="søknad.html" class="button">CV</a></b></h3>
+
+
+</div>
 
 </body>
 
