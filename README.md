@@ -2,7 +2,7 @@
 
 Søknad og CVer befinner seg på pages
 
-Lenke til søknad: [Gruppesøknad på GitHub-Pages](https://rubenteik.github.io/Egde-Gruppe-Soknad/)
+Lenke til søknad: [Gruppesøknad på GitHub-Pages](https://rubenteik.github.io/egdesoknad.github.io/)
 
 ## Gruppemedlemmer:
 | Navn                   | Github-URL                      |
