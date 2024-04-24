@@ -10,5 +10,4 @@ Lenke til søknad: [Gruppesøknad på GitHub-Pages](https://rubenteik.github.io/
 | --------------------   | ------------------------------- |
 | Ruben Teikari          | https://github.com/rubenteik    |
 | Jonas Fritzøe Hovdenak | https://github.com/jonhovd      |
-| Martin Steiro          | https://github.com/martinstereo |
 | Johannes Tjøstheim     | https://github.com/johannestj   |
